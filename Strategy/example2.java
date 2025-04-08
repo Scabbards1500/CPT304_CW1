@@ -1,4 +1,2 @@
-package Strategy;
-
-public class example2 {
+package Strategy;public class exampl2 {
 }
