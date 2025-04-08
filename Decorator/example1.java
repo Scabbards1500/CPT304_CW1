@@ -1,2 +1,4 @@
-package Decorator;public class example1 {
+package Decorator;
+
+public class example1 {
 }
